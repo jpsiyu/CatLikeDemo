@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shapders/First Lighting Shader.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shapders/My Lighting.cginc">
     <Files>
-      <File FileName="Assets/Shapders/First Lighting Shader.shader" Line="75" Column="18" />
+      <File FileName="Assets/Shapders/MultiLighting.shader" Line="33" Column="24" />
+      <File FileName="Assets/Shapders/My Lighting.cginc" Line="35" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Grid.cs" />
      <None Include="Assets\Shapders\Textured With Detail.shader" />
+     <None Include="Assets\Shapders\MultiLighting.shader" />
+     <None Include="Assets\Shapders\My Lighting.cginc" />
      <None Include="Assets\Shapders\First Lighting Shader.shader" />
      <None Include="Assets\Shapders\Grey.shader" />
      <None Include="Assets\Shapders\My First Shader.shader" />
