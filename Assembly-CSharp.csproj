@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Grid.cs" />
+     <None Include="Assets\Shapders\Textured With Detail.shader" />
+     <None Include="Assets\Shapders\First Lighting Shader.shader" />
+     <None Include="Assets\Shapders\Grey.shader" />
+     <None Include="Assets\Shapders\My First Shader.shader" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
